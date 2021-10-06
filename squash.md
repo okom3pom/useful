@@ -1,3 +1,5 @@
+# Squash commit.
+
 Tout d’abord, il faut récupérer le sha1 du commit précédant celui dans lequel on va squasher, puis on l’utilise pour lancer la commande :
 
 `git rebase -i fbde9fd9c14c9f449f9461b6d3c17c92923b97f0`
