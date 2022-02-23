@@ -4,6 +4,10 @@ Tout d’abord, il faut récupérer le sha1 du commit précédant celui dans leq
 
 `git rebase -i fbde9fd9c14c9f449f9461b6d3c17c92923b97f0`
 
+Ou 5 ici égale aux nombre de commit 
+
+`git rebase -i HEAD~5
+
 On entre alors en mode interactif (on utilise l’éditeur de git). Les commits sont affichés du plus ancien au plus récent.
 
 ```
