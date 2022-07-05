@@ -26,8 +26,6 @@ Tu vas avoir un encart ou tu peux de nouveau proposer tes changements
 
 ![Okom3pom](img/Screenshot%20(67).png "Okom3pom")
 
+Ici tu remplis, le descriptif et tu cliques sur Create Pull Request
 
-
-
-
-
+![Okom3pom](img/Screenshot%20(68).png "Okom3pom")
